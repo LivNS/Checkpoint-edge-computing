@@ -57,8 +57,6 @@ Configurar valores (para que os leds funcionem na "ordem" correta e, caso haja a
 
 alunos:
 Debora Amaral - RM 550412
-Gabriel Sugayama - RM 99265
-Isabelle de Carvalho - RM 97717
 Lívia Namba - RM 97819
 
 
