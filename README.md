@@ -10,6 +10,8 @@ A luz vermelha e o buzzer serão acionados caso haja alguma irregularidade que s
 
 Para a montagem do circuito, é necessário um protoboard , 3 Led´s de cores distintas, 4 resistores,um fotorresistor, um Buzzer e um arduino.
 
+https://github.com/LivNS/Checkpoint-edge-computing/blob/main/Captura%20de%20tela%202023-04-12%20003256.png?raw=true
+
 Podemos começar inserindo os leds nos trilhos da protoboard
 
 Led VERMELHO -> 3 e 4B (haste positiva no 4 e negativa no 3)
